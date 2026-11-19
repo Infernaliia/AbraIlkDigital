@@ -67,8 +67,6 @@ AbraIlkDigital/
 git clone https://github.com/Infernaliia/AbraIlkDigital.git
 ```
 
-Replace `https://github.com/Infernaliia/AbraIlkDigital.git` with your actual repository URL.
-
 ### 2. Open the project
 
 Open the project folder in Visual Studio Code or another code editor.
@@ -114,6 +112,14 @@ Possible future development includes:
 - SEO improvements.
 - Performance optimization.
 - Analytics integration.
+
+## Live Demo
+
+https://infernaliia.github.io/AbraIlkDigital/
+
+## GitHub Repository
+
+https://github.com/Infernaliia/AbraIlkDigital
 
 ## Author
 
